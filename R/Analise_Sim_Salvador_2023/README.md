@@ -1,1 +1,18 @@
+<b>O Sistema de Informação sobre Mortalidade (SIM)</b>, é um sistema oficial do Ministério da Saúde/Brasil que reúne registros de óbitos com detalhes como causa da morte, idade, sexo e local de residência. 
 
+Ele possui uma base nacional que compila dados de óbitos de todo o Brasil, com variáveis demográficas e causas de morte classificadas segundo a CID-10. Ele é amplamente utilizado para análises epidemiológicas, planejamento em saúde pública e monitoramento de tendências de mortalidade.
+
+
+<b>Utilizei a tabela em CSV (sim_salvador_2023)</b>, com registros individuais de óbitos que aconteceram em Salvador durante o ano de 2023, para análise com programação R.
+
+Onde foi possível realizar a exploração e transformação dos dados, com exemplos como:<p></p>
+<b>Identificar a quantidadade de obitós por faixa etária.</b>
+
+<img width="942" height="408" alt="image" src="https://github.com/user-attachments/assets/f7d9772d-fbc2-4db7-940c-5515315f53c2" />
+
+
+
+<p></p>
+<b>Manipulação de Datas e Agrupamento através da criação da variável trimestre.</b>
+<p></p>
+<img width="948" height="393" alt="image" src="https://github.com/user-attachments/assets/55f71e9b-1a2f-4a9e-a63b-c09a3bb01829" />
