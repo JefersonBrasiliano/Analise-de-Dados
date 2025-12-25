@@ -5,7 +5,7 @@ Através da função tibble, foi criado tabela com os dados de 20 recém nascido
 <img width="951" height="855" alt="image" src="https://github.com/user-attachments/assets/6ed2618a-26c0-4e15-9b42-d4f2b6c7aa8e" />
 <p></p>
 
-<b>Foi Categorizado os pesos para facilitar a análise</b>
+<b>Foi Categorizado os pesos para facilitar a análise.</b>
 <p></p>
 <img width="946" height="571" alt="image" src="https://github.com/user-attachments/assets/41219a44-968d-4df5-89cd-08674c38e32f" />
 <p></p>
@@ -19,4 +19,28 @@ Através da função tibble, foi criado tabela com os dados de 20 recém nascido
 <b>E a médiana.</b>
 <p></p>
 <img width="942" height="340" alt="image" src="https://github.com/user-attachments/assets/ac59f070-37a9-48f7-95d5-219621e18222" />
+<p></p>
+<p></p>
+<b>Identificado os Quartis e Percentis.</b>
+<p></p>
+<img width="939" height="356" alt="image" src="https://github.com/user-attachments/assets/5ad2d72f-058a-49b6-8b5e-6eddd01627c7" />
+
+<p></p>
+<b>Em seguida criei uma tabela relacionado a dados sobre Colesterol.</b>
+<p></p>
+
+<img width="945" height="359" alt="image" src="https://github.com/user-attachments/assets/b30b7216-f2a6-4293-a0cd-30290f3707a4" />
+<p></p>
+<b>E analisado a amplitude destes dados.</b>
+<p></p>
+<img width="940" height="408" alt="image" src="https://github.com/user-attachments/assets/a143891a-78db-46f3-bd8e-d09e0e5cf59a" />
+<p></p>
+
+<b>Identificado a variância e desvio-padrão.</b>
+<p></p>
+<img width="941" height="378" alt="image" src="https://github.com/user-attachments/assets/7b41abd9-59ee-4152-901c-5af7aed79a89" />
+
+
+
+
 
