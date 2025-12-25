@@ -3,7 +3,7 @@
 Ele possui uma base nacional que compila dados de óbitos de todo o Brasil, com variáveis demográficas e causas de morte classificadas segundo a CID-10. Ele é amplamente utilizado para análises epidemiológicas, planejamento em saúde pública e monitoramento de tendências de mortalidade.
 
 
-<b>Utilizei a tabela em CSV (sim_salvador_2023)</b>, com registros individuais de óbitos que aconteceram em Salvador durante o ano de 2023, para aprendizado da linguagem R e análise de dados.
+<b>Utilizei a tabela em CSV (sim_salvador_2023_processado)</b>, com registros individuais de óbitos que aconteceram em Salvador durante o ano de 2023, para aprendizado da linguagem R e análise de dados.
 <p></p>  
 
 Onde foi possível realizar a exploração e transformação dos dados, com exemplos como:<p></p>
